@@ -1,0 +1,6 @@
+﻿  assignment.c
+E:\Andrea\Praksa\GPU\Assignment3\Assignment3\assignment.c(148,45): warning C4244: 'function': conversion from 'cl_ulong' to 'int', possible loss of data
+E:\Andrea\Praksa\GPU\Assignment3\Assignment3\assignment.c(148,50): warning C4244: '=': conversion from 'double' to 'cl_ulong', possible loss of data
+E:\Andrea\Praksa\GPU\Assignment3\Assignment3\assignment.c(106,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Andrea\Praksa\GPU\Assignment3\Assignment3\assignment.c(150,1): warning C4244: 'initializing': conversion from 'double' to 'cl_ulong', possible loss of data
+  Assignment3.vcxproj -> E:\Andrea\Praksa\GPU\Assignment3\x64\Debug\Assignment3.exe
